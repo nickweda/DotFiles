@@ -1,0 +1,7 @@
+i3
+polybar
+picom
+feh
+maim
+alacritty
+code
